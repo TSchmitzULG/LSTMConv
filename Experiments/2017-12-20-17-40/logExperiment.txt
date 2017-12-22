@@ -1,0 +1,15 @@
+mean square error : 0.024156531371357877 after 3347 epoch and a duration of 01:15:00:05  
+Parameters :
+tensorflow version 1.4.1
+Model Name LSTM28
+num_epoch 3347
+num_hidden 150
+num_step 180
+Number of layers 1
+batch_size 2500
+input length 2160900
+dropout 0.000000
+number of convolution kernels 35.000000
+Convolution kernels size 12.000000
+strides size 3.000000
+Total num of trainable parameters 126941
